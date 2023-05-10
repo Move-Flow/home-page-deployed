@@ -1,33 +1,37 @@
 {
   "files": {
-    "main.css": "/static/css/main.033bb81e.css",
-    "main.js": "/static/js/main.6e057182.js",
-    "static/media/stream.png": "/static/media/stream.ccecd3072ee0e076c135.png",
-    "static/media/dashboard.png": "/static/media/dashboard.778e8bbe30e588778f83.png",
-    "static/media/bob.png": "/static/media/bob.b317fdd8651fbea66072.png",
+    "main.css": "/static/css/main.29a599b3.css",
+    "main.js": "/static/js/main.58ca9f6c.js",
+    "static/media/subscriptions.svg": "/static/media/subscriptions.7d8b6113e152255d430d01a4e3fcc0d1.svg",
+    "static/media/address_book.svg": "/static/media/address_book.6ba4782c95715c8bead31bcf144835e7.svg",
+    "static/media/SDK.svg": "/static/media/SDK.a784a60516eac6d4a413a1c31841a728.svg",
+    "static/media/movefuns.png": "/static/media/movefuns.86aa1deb660e6184ba05.png",
     "static/media/noncegeek.png": "/static/media/noncegeek.bafa70296c44670d2e61.png",
     "static/media/albin.png": "/static/media/albin.d7017bf5b3f1eb659866.png",
     "static/media/murph.png": "/static/media/murph.d953c5a12ceb9794d03f.png",
     "static/media/burt.png": "/static/media/burt.e3633b7929b6b809d574.png",
+    "static/media/dashboard.svg": "/static/media/dashboard.dbff0591838bede323db4656cc59f826.svg",
     "static/media/terry.png": "/static/media/terry.8db3186beea06dc29dc2.png",
+    "static/media/bob.png": "/static/media/bob.623bd716db5986a3128a.png",
     "static/media/vicky.png": "/static/media/vicky.f6fa9b4f38f6d77f18ca.png",
-    "static/media/logo707.svg": "/static/media/logo707.c898752ec53e02ea560bbfadd06d920f.svg",
     "static/media/walter.png": "/static/media/walter.ed05874fc7a2985e6965.png",
     "static/media/troy.png": "/static/media/troy.4b68ac1c1455eee6e66f.png",
-    "static/media/antalphalogo.svg": "/static/media/antalphalogo.7954804dd112b798935ac1873521fc6a.svg",
     "static/media/head-figure.svg": "/static/media/head-figure.af37fdc59364590a97254f5c5cd267c5.svg",
-    "static/media/zonff_logo.svg": "/static/media/zonff_logo.7de0029b109d7274856a125f1630e603.svg",
-    "static/media/aptos_logo.svg": "/static/media/aptos_logo.78c199f07f0e2cd00b2c94c5c2b47640.svg",
+    "static/media/zonff_logo.svg": "/static/media/zonff_logo.f8e3289a61016b204184a5d413e8a47e.svg",
+    "static/media/dorahacks.svg": "/static/media/dorahacks.6d0f3838f95ffcbab67ba368d5b55e6b.svg",
+    "static/media/antalpha_labs.svg": "/static/media/antalpha_labs.1417a5566ebab7f49f5cf1e40140d658.svg",
+    "static/media/msafe.svg": "/static/media/msafe.3f0cf10be3438b5830f8274ff006fd60.svg",
     "static/media/payment-workflow.svg": "/static/media/payment-workflow.ea23ea1c3a45fdb1a64540a11e3a65bb.svg",
+    "static/media/mf_plogo.svg": "/static/media/mf_plogo.5b236e82c2ced5e8aa4586b43c376bd1.svg",
     "static/media/token-vesting.svg": "/static/media/token-vesting.6739b55ec0fea033678925ccc0cdd2de.svg",
     "static/media/payroll.svg": "/static/media/payroll.a119dd47049fee484740204caaba74c7.svg",
     "static/media/subscription.svg": "/static/media/subscription.26c8479b5bc541646bce63c5e02f201a.svg",
     "index.html": "/index.html",
-    "main.033bb81e.css.map": "/static/css/main.033bb81e.css.map",
-    "main.6e057182.js.map": "/static/js/main.6e057182.js.map"
+    "main.29a599b3.css.map": "/static/css/main.29a599b3.css.map",
+    "main.58ca9f6c.js.map": "/static/js/main.58ca9f6c.js.map"
   },
   "entrypoints": [
-    "static/css/main.033bb81e.css",
-    "static/js/main.6e057182.js"
+    "static/css/main.29a599b3.css",
+    "static/js/main.58ca9f6c.js"
   ]
 }
